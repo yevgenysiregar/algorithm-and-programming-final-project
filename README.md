@@ -48,3 +48,10 @@ Lesson Learned:
 
 In this final project, I learned to make a class and method and its implementation inside a flow of a game.
 Beside that, I learned to use dictionary to keep a data that has the same key. 
+
+Demo Video:
+
+
+
+https://user-images.githubusercontent.com/48908985/212540298-6322ec35-aa7b-4887-aa07-34f3de284e53.mov
+
